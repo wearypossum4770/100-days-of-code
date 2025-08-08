@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 7, 2025
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  Did the Merge Sorted Array challenge in Zig, and partially got Python completed. I will be doing two versions on this challenge one will be returning a new array and the other will be in-place. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I will use a three-pointer technique to keep track of indices during iteration, Since the array sizes are known beforehand there should be no need to. My original thought was that this was going to be easy but it was not. I first attempted the challenge in python. Once I figured out that there was an issue with my logic, I used a little AI to help me look at the indexing issue, but specifically asked it not to solve the issue. Once I got a little way in I switched to Zig for this challenge. I needed to take a different approach. I did not want to attempt in-place mutations in Zig until I got more familiar and comfortable with the language. I put some notes on one of the test cases because I had to increase the first array/slice by one slot due to returning a new array from the function. If I was doing in-place mutations using the correct array size would work.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Merge Sorted Array](https://github.com/wearypossum4770/dark-coding-challenges/issues/88)
